@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Khandaker Rezoanul Haque </h1>
 <h3 align="center">A full-stack developer from bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Kh-rez1&label=Profile%20views&color=0e75b6&style=flat" alt="Kh-rez1" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Rezoan-kh&label=Profile%20views&color=0e75b6&style=flat" alt="Rezoan-kh" /> </p>
 
 - 🌱 I’m currently learning **MERN 🤣**
 
