@@ -7,7 +7,7 @@
 
  
 <p align="left">
-  <a href="https://drive.google.com/your-resume-link" target="_blank">
+  <a href="https://drive.google.com/file/d/1b9SizROIhZxkQMFUYv8Di8pChUXICP8Y/view?usp=sharing" target="Rezoan-kh">
     <img src="https://img.shields.io/badge/Download%20Resume-%230077B5.svg?&style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume" />
   </a>
 </p>
