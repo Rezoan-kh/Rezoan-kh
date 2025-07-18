@@ -57,9 +57,9 @@
   </a>
 </p>
 
-<p> <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Rezoan-kh&theme=clasic" alt="GitHub Streak" /> </p>
+<p> <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Rezoan-kh&theme=clasic" alt="Rezoan-kh" /> </p>
 </a>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rezoan-kh&show_icons=true&locale=en&layout=compact&theme=clasic" alt="Top Languages"/></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rezoan-kh&show_icons=true&locale=en&layout=compact&theme=clasic" alt="Rezoan-kh"/></p>
 </a>
-<p><img align="cente" src="https://github-readme-stats.vercel.app/api?username=Rezoan-kh&show_icons=true&locale=en&layout=compact" alt="GitHub Stats" /></p>
+<p><img align="cente" src="https://github-readme-stats.vercel.app/api?username=Rezoan-kh&show_icons=true&locale=en&layout=compact" alt="Rezoan-kh" /></p>
 <p>Created with ❤️ by Khandaker Rezoanul Haque from Dhaka, Bangladesh</p>
